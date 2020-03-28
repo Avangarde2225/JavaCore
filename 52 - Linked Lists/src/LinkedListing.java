@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 
-public class App {
+public class LinkedListing {
 
 
     public static void main(String[] args) {
